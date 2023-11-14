@@ -1,0 +1,50 @@
+body {
+    background-color: #DEE0E1;
+    margin: 0;
+}
+
+header {
+    background-color: white;
+    padding: 10px;
+
+}
+
+.post1 {
+    background-color: white;
+}
+
+.titleHeader {
+    margin: 0;
+}
+
+.postContainer {
+    width: 550px;
+    margin: auto;
+}
+
+.imgClass {
+    width: 100%;
+}
+
+div.post1 h2 {
+    padding: 5px;
+    margin: 5px;
+}
+
+div.post1 p {
+    padding: 5px;
+}
+
+.display {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+
+.spanDate {
+    padding: 5px;
+    margin: 10px;
+    align-items: center;
+    color: gray;
+}
